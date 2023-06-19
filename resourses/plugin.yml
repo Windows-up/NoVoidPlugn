@@ -1,0 +1,6 @@
+name: NoVoidPlugin
+author: Doctorixx
+main: ru.doctorixx.NoVoidPlugin
+version: 0.1
+api-version: 1.14
+description: Void are not dangerous now! This plugin protect players from death in void and teleport to the spawn

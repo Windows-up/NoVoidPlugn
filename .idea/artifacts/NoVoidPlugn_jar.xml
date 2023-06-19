@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NoVoidPlugn:jar">
+    <output-path>$USER_HOME$/OneDrive/Рабочий стол/TestServer1.16/plugins</output-path>
+    <root id="archive" name="NoVoidPlugn.jar">
+      <element id="module-output" name="NoVoidPlugn" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/spigot-1-16-5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
